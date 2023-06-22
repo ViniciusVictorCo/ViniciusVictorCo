@@ -2,7 +2,7 @@
 
 <!-- VISITOR COUNTER -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ViniciusVictorCorrea&style=for-the-badge&color=C60945">
+  <img src="https://komarev.com/ghpvc/?username=ViniciusVictorCorre&style=for-the-badge&color=C60945">
   <br><br>
   
 <!-- TYPER AUTOMATIC -->
@@ -10,7 +10,7 @@
 
 <!-- MT STATUS AND LANGUAGES USED -->
 <div align="center">
-  <a href="https://github.com/ViniciusVictorCorrea">
+  <a href="https://github.com/ViniciusVictorCorre">
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=ViniciusVictorCorre&theme=moltack&show_icons=true"/>
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVictorCorre&theme=moltack&layout=compact"/>
 </div>

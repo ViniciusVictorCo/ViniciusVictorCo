@@ -16,7 +16,7 @@
 </div>
  
 <!--  MY GRAPHIC OF COMMITS -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ViniciusVictorCorrea&bg_color=F5E1C0&color=730628&line=730628&point=261603&area=true&hide_border=true&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ViniciusVictorCorre&bg_color=F5E1C0&color=730628&line=730628&point=261603&area=true&hide_border=true&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <!-- CONTACT ME -->
 ##

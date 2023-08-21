@@ -2,7 +2,7 @@
 
 <!-- VISITOR COUNTER -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ViniciusVictorCorre&style=for-the-badge&color=C60945">
+  <img src="https://komarev.com/ghpvc/?username=ViniciusVictorCo&style=for-the-badge&color=C60945">
   <br><br>
   
 <!-- TYPER AUTOMATIC -->
@@ -10,13 +10,13 @@
 
 <!-- MT STATUS AND LANGUAGES USED -->
 <div align="center">
-  <a href="https://github.com/ViniciusVictorCorre">
+  <a href="https://github.com/ViniciusVictorCo">
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=ViniciusVictorCorre&theme=moltack&show_icons=true"/>
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVictorCorre&theme=moltack&layout=compact"/>
 </div>
  
 <!--  MY GRAPHIC OF COMMITS -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ViniciusVictorCorre&bg_color=F5E1C0&color=730628&line=730628&point=261603&area=true&hide_border=true&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ViniciusVictorCo&bg_color=F5E1C0&color=730628&line=730628&point=261603&area=true&hide_border=true&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <!-- CONTACT ME -->
 ##

@@ -11,8 +11,8 @@
 <!-- MT STATUS AND LANGUAGES USED -->
 <div align="center">
   <a href="https://github.com/ViniciusVictorCo">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ViniciusVictorCorre&theme=moltack&show_icons=true"/>
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVictorCorre&theme=moltack&layout=compact"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ViniciusVictorCo&theme=moltack&show_icons=true"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVictorCo&theme=moltack&layout=compact"/>
 </div>
  
 <!--  MY GRAPHIC OF COMMITS -->
